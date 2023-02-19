@@ -1,0 +1,21 @@
+Locales ['de'] = {
+  ['buy_license'] = 'Waffenlizenz kaufen?',
+  ['yes'] = '%s$',
+  ['no'] = 'Nein',
+  ['weapon_bought'] = 'Gekauft für %s$',
+  ['not_enough_black'] = 'Du hast nicht genug Schwarzgeld',
+  ['not_enough'] = 'Du hast nicht genug Geld',
+  ['already_owned'] = 'Du besitzt diese Waffe bereits',
+  ['shop_menu_title'] = 'Ammu-Nation',
+  ['shop_menu_prompt'] = 'Drücke ~INPUT_CONTEXT~ um auf das Geschäft zuzugreifen.',
+  ['open_weapon'] = 'Waffen kaufen',
+  ['open_ammo'] = 'Munition kaufen',
+  ['add_ammo_shot'] = 'Shotgun Munition: <span style="color:green;">$500</span>',
+  ['add_ammo_ar'] = 'AR Munition: <span style="color:green;">$850</span>',
+  ['add_ammo_smg'] = 'SMG Munition: <span style="color:green;">$950</span>',
+  ['add_ammo_pistol'] = 'Pistol Munition: <span style="color:green;">$350</span>',
+  ['you_paid'] = 'Du hast ~g~$%s~s~ für Munition bezahlt',
+  ['shop_menu_item'] = '%s$',
+  ['map_blip'] = 'Ammu-Nation',
+}
+
